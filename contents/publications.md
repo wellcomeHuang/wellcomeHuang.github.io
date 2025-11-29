@@ -5,8 +5,6 @@
 - **Huang, H.**, & Situ, H. (2021). Investigating reconstruction of quantum state distributions with neural networks. **The European Physical Journal Plus.** [[Paper]](https://link.springer.com/article/10.1140/epjp/s13360-021-01206-4)
 - **Huang, H.**, Situ, H., & Zheng, S. (2021). Bidirectional information flow quantum state tomography. **Chinese Physics Letters.** [[Paper]](https://iopscience.iop.org/article/10.1088/0256-307X/38/4/040303/meta)
 
-#### Published
-
 - Lin, W., Lin, J., Peng, Z., **Huang, H.**, Lin, W., & Li, K. (2024). A systematic review of green-aware management techniques for sustainable data center. **Sustainable Computing: Informatics and Systems**. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2210537924000349)
 - Lin, J., Lin, W., **Huang, H.**, Lin, W., & Li, K. (2023). Thermal modeling and thermal-aware energy saving methods for cloud data centers: A review. **IEEE Transactions on Sustainable Computing**. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10373134)
 - Chen, R., Lin, W., **Huang, H.**, Ye, X., & Peng, Z. (2025). GAS-MARL: Green-aware job scheduling algorithm for HPC clusters based on multi-action deep reinforcement learning. **Future Generation Computer Systems**. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X2500055X)
