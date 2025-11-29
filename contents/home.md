@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wellcomeHuang](https://img.shields.io/badge/wellcomeHuang-github-blue?logo=github)](https://github.com/wellcomeHuang)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently pursuing my Doctor's Degree at the School of Computer Science and Engineering, South China University of Technology.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: huikanghuang0321@gamil.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Software and Theory, South China Agricultural University, 2018—2021.\
+B.E., Computer Science and Technology, Hanshan Normal University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Cloud Computing, Reinforcement Learning, Computer Architecture

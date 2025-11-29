@@ -1,16 +1,4 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 中国国际大学生创新大赛产业命题赛道总决赛金奖（2023）— 负责人
+- 鲲鹏应用创新大赛广东赛区二等奖（2023）— 参与者
+- 第十届全国大学生信息安全竞赛决赛三等奖（2017） — 负责人
