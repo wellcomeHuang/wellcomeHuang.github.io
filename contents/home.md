@@ -1,6 +1,6 @@
 
 
-[![wellcomeHuang](https://img.shields.io/badge/wellcomeHuang-github-blue?logo=github)](https://github.com/wellcomeHuang)
+[![wellcome](https://img.shields.io/badge/wellcome0321-github-blue?logo=github)](https://github.com/wellcomeHuang)
 
 I am currently pursuing my Doctor's Degree at the School of Computer Science and Engineering, South China University of Technology.
 
